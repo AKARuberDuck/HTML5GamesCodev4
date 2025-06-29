@@ -1,0 +1,15 @@
+{
+  "name": "Color Clash",
+  "short_name": "Clash",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111",
+  "description": "Multiplayer orb-collecting frenzy!",
+  "icons": [
+    {
+      "src": "assets/player1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
